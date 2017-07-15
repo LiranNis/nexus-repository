@@ -1,2 +1,4 @@
 # nexus-repository
-Dockerzied Nexus Repository documentation for offline use. TODO
+Dockerzied Nexus Repository documentation for offline use
+
+TODO: Create Dockerfile
